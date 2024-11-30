@@ -180,8 +180,8 @@ input {
     }
     img{
     border: solid #d9d9d9 6px;
-    width: 325px;
-    height: 225px;
+    width: fit-content;
+    height: 100%;
     border-radius: 10px;
     }
   }
